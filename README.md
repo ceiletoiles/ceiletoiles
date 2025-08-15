@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shiv
 - 👀 I’m interested in codingg
-- 🌱 I’m currently learning Bachelor of Computer Application
+- 🌱 I’m currently studying Bachelor of Computer Application
 - 💞️ I’m looking to collaboration / people who can teach me coding
 - 😄 Pronouns: he/him
