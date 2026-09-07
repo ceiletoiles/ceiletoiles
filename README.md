@@ -10,6 +10,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/ceiletoiles)
 [![Profile Views](https://komarev.com/ghpvc/?username=ceiletoiles\&style=flat-square\&color=grey)](https://github.com/ceiletoiles)
+[![Contributions](https://img.shields.io/github/commit-activity/y/ceiletoiles?style=flat-square&label=contributions)](https://github.com/ceiletoiles)
 
 <br>
 <br>
@@ -24,7 +25,7 @@ computer science student
 
 I build software, experiment with ideas,
 and occasionally turn a "small project"
-into something considerably less small.
+into something considerably big.
 
 interests
   → web development
@@ -68,7 +69,7 @@ between devices.
 <tr>
 <td width="50%">
 
-### 📡 KEA Monitor
+### 📡 Website Monitor
 
 A small automation project that watches
 websites for important announcements and
