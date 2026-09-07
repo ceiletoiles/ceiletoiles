@@ -10,7 +10,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/ceiletoiles)
 [![Profile Views](https://komarev.com/ghpvc/?username=ceiletoiles\&style=flat-square\&color=grey)](https://github.com/ceiletoiles)
-[![Contributions](https://img.shields.io/github/commit-activity/y/ceiletoiles?style=flat-square&label=contributions)](https://github.com/ceiletoiles)
+[![Contributions](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub-contributions-api.jogruber.de%2Fv4%2Fceiletoiles&query=%24.total.2026&label=contributions&style=flat-square)](https://github.com/ceiletoiles)
 
 <br>
 <br>
